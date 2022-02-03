@@ -4,6 +4,6 @@ import org.junit.*;
 public class SkilldemoTest {
     @Test
     public void addition() {
-        assertEquals(2, Skilldemo.sum(1, 2));
+        assertEquals(2, Skilldemo.sum(1, 1));
     }
 }
